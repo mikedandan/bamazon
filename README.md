@@ -13,7 +13,7 @@ I have included screenshots to show to application.
 
 
 
-<img src="/bamazon/pictures/bamazon1.png">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon1.PNG">
 
 
 
