@@ -11,9 +11,14 @@ You may also run the bamazonManager.js file to see the admin side of our applica
 
 I have included screenshots to show to application.
 
-
-
 <img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon1.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon_successful_buy.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon_unsuccessful_buy.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazonManager.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/BamazonManager_viewproducts.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazonmanager_lowInventory.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazonManager_InventoryUpdate.PNG">
+<img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazonManager_addingNewProduct.PNG">
 
 
 
