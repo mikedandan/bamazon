@@ -13,4 +13,4 @@ I have included screenshots to show to application.
 
 
 
-<img src="/pictures/bamazon1.png">
+<img src="tree/master/pictures/bamazon1.png">
