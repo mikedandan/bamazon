@@ -9,7 +9,7 @@ once started you will see your options.
 
 You may also run the bamazonManager.js file to see the admin side of our application.
 
-I have included screenshots to show to application.
+I have included screenshots to show the application in use:
 
 <img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon1.PNG">
 <img src="https://github.com/mikedandan/bamazon/blob/master/pictures/bamazon_successful_buy.PNG">
