@@ -13,7 +13,7 @@ I have included screenshots to show to application.
 
 
 
-![](images/bamazon1.png)
+![](pictures/bamazon1.png)
 
 
 
