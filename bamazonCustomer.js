@@ -127,7 +127,7 @@ function displayBamazon() {
 
             console.log(list);
         }
-
+        
         console.log("---------------------------------------------------------------------\n");
         productBuy();
     })
