@@ -13,4 +13,5 @@ I have included screenshots to show to application.
 
 
 
+![](images/bamazon1.png)
 <img src="./tree/master/pictures/bamazon1.png">
